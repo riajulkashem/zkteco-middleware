@@ -1,0 +1,4 @@
+future==1.0.0
+peewee==3.17.9
+pyzk==0.9
+ruff==0.11.6
